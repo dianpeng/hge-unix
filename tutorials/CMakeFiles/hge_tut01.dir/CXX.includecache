@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dpeng/Desktop/hge-unix-master/include/hge.h
+unix_compat.h
+/home/dpeng/Desktop/hge-unix-master/include/unix_compat.h
+windows.h
+-
+
+/home/dpeng/Desktop/hge-unix-master/include/unix_compat.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+stdint.h
+-
+unistd.h
+-
+assert.h
+-
+errno.h
+-
+limits.h
+-
+sys/stat.h
+-
+sys/time.h
+-
+time.h
+-
+SDL/SDL.h
+-
+
+/home/dpeng/Desktop/hge-unix-master/tutorials/tutorial01/hge_tut01.cpp
+../../include/hge.h
+/home/dpeng/Desktop/hge-unix-master/include/hge.h
+

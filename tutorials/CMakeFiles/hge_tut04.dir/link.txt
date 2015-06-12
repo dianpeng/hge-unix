@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/hge_tut04.dir/tutorial04/hge_tut04.o  -o hge_tut04 -rdynamic 

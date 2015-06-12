@@ -1,0 +1,28 @@
+
+-------------------------------------------------------------------
+       hge-unix can be found at http://icculus.org/hge-unix/
+  Please don't bother Relish Games about the Unix version of HGE.
+   They are responsible for the Windows version, not this build.
+-------------------------------------------------------------------
+
+HGE Started...
+hge-unix version: 1.81
+Date: Fri Jun 12 12:04:57 2015
+
+Application: HGE Tutorial 05 - Using distortion mesh
+OS: Unix
+OpenGL: loading entry points and examining extensions...
+GL_RENDERER: Gallium 0.4 on NVE6
+GL_VENDOR: nouveau
+GL_VERSION: 3.0 Mesa 10.1.3
+OpenGL: Using GL_ARB_texture_rectangle
+OpenGL: Using GL_EXT_framebuffer_object
+OpenGL: WARNING: no YUV texture support; videos may render slowly.
+OpenGL: Using GL_ARB_vertex_buffer_object
+Mode: 800 x 600
+
+Init done.
+
+
+Finishing..
+The End.

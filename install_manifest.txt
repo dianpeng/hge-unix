@@ -1,0 +1,15 @@
+/usr/local/lib/libhge.so
+/usr/local/include/hge/hgefont.h
+/usr/local/include/hge/hge.h
+/usr/local/include/hge/hgesprite.h
+/usr/local/include/hge/hgeresource.h
+/usr/local/include/hge/hgerect.h
+/usr/local/include/hge/hgevector.h
+/usr/local/include/hge/hgegui.h
+/usr/local/include/hge/hgestrings.h
+/usr/local/include/hge/hgecolor.h
+/usr/local/include/hge/hgeparticle.h
+/usr/local/include/hge/hgedistort.h
+/usr/local/include/hge/unix_compat.h
+/usr/local/include/hge/hgeguictrls.h
+/usr/local/include/hge/hgeanim.h
