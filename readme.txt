@@ -40,3 +40,19 @@ Send any questions, suggestions and bug reports to hge@relishgames.com.
 
 
 Cheers! :)
+
+================================================
+
+This version fix bug with porting of particle editor on *NIX. However,
+even with this fix, you are still not able to get the built-in particle
+run properly inside of the particle editor. HGE just dumps the memory
+into file as configuration format for particle. But its highly dependent
+with your compiler suite and platform. Of course, it won't work when you
+port it to Unix. Either uses a text based configuration (json/xml/yaml) or
+design a binary format that is able to cross platform. I am using a 64 bit
+ubuntu box and it doesn't work here. Probably rewrite the particle in hge
+to use another configuration file.
+
+Thanks ryan's great work !
+
+
